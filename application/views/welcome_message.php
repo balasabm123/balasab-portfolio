@@ -1,31 +1,48 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
   <head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
 
     <title>Resume - Balasab Muddebihal</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Custom fonts for this template -->
-    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link
+      href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+      rel="stylesheet"
+    />
+    <link
+      href="vendor/font-awesome/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet" />
+    <link
+      href="vendor/simple-line-icons/css/simple-line-icons.css"
+      rel="stylesheet"
+    />
 
     <!-- Custom styles for this template -->
-    <link href="css/resume.min.css" rel="stylesheet">
-<style type="text/css">
-/*	.hide {
+    <link href="css/resume.min.css" rel="stylesheet" />
+    <style type="text/css">
+      /*	.hide {
   display: none;
 }
     
@@ -33,19 +50,33 @@
   display: block;
   color: red;
 }*/
-</style>
+    </style>
   </head>
 
   <body id="page-top">
-
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <nav
+      class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top"
+      id="sideNav"
+    >
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none">Start Bootstrap</span>
         <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpeg" alt="">
+          <img
+            class="img-fluid img-profile rounded-circle mx-auto mb-2"
+            src="img/profile.jpeg"
+            alt=""
+          />
         </span>
       </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -54,15 +85,19 @@
             <a class="nav-link js-scroll-trigger" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+            <a class="nav-link js-scroll-trigger" href="#experience"
+              >Experience</a
+            >
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+            <a class="nav-link js-scroll-trigger" href="#education"
+              >Education</a
+            >
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
           </li>
-        <!--   <li class="nav-item">
+          <!--   <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
           </li> -->
           <li class="nav-item">
@@ -73,24 +108,40 @@
     </nav>
 
     <div class="container-fluid p-0">
-
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Balasab
+          <h1 class="mb-0">
+            Balasab
             <span class="text-primary">Muddebihal</span>
           </h1>
-          <div class="subheading mb-5">Electronic City Bangalore India,  Pin : 560100
-            <a href="mailto:name@email.com">, <br><u>mayur332@gmail.com</u>
-            	<br>
-            Mob:9590961744</a>
+          <div class="subheading mb-5">
+            Electronic City Bangalore India, Pin : 560100
+            <a href="mailto:name@email.com"
+              >, <br /><u>mayur332@gmail.com</u>
+              <br />
+              Mob:9590961744</a
+            >
           </div>
-          <p class="mb-5">Web development professional with over 6 years of expertise in robust programming languages, delivering high-quality designs that meet client specifications. Experienced in developing and integrating systems for the travel industry, with a proven ability to effectively manage projects to meet customer objectives.
-          	<br>
-
-Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and DBMS languages. I also have strong experience in frameworks such as CodeIgniter, Laravel, and Angular 7, along with expertise in API development and Integration.</p>
+          <p class="mb-5">
+            Experienced Software Developer with 7+ years of experience
+            designing, developing, and maintaining scalable web applications and
+            backend systems. Specialized in Travel Technology, third-party API
+            integrations, booking platforms, CRM systems, CMS solutions, and
+            process automation. Strong expertise in PHP, Laravel, CodeIgniter,
+            REST APIs, MySQL, and backend development, with experience
+            integrating external services and building scalable business
+            applications. Skilled in software architecture, API development,
+            database optimization, debugging, testing, and performance
+            improvement. Experienced in Git-based workflows, and AI assisted
+            development tools such as Cursor Agent to accelerate development and
+            improve code quality.
+          </p>
           <ul class="list-inline list-social-icons mb-0">
-              <li class="list-inline-item">
-              <a href="http://www.linkedin.com/in/balasab-muddebihal-aa386a128" target="_blank">
+            <li class="list-inline-item">
+              <a
+                href="http://www.linkedin.com/in/balasab-muddebihal-aa386a128"
+                target="_blank"
+              >
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -98,14 +149,17 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
               </a>
             </li>
             <li class="list-inline-item">
-              <a href="https://www.facebook.com/share/YJ63E7qNir77aY52/" target="_blank">
+              <a
+                href="https://www.facebook.com/share/YJ63E7qNir77aY52/"
+                target="_blank"
+              >
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
                   <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                 </span>
               </a>
             </li>
-           <!--  <li class="list-inline-item">
+            <!--  <li class="list-inline-item">
               <a href="#">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
@@ -113,8 +167,8 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
                 </span>
               </a>
             </li> -->
-         
-          <!--   <li class="list-inline-item">
+
+            <!--   <li class="list-inline-item">
               <a href="#">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-circle fa-stack-2x"></i>
@@ -126,17 +180,86 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+      <section
+        class="resume-section p-3 p-lg-5 d-flex flex-column"
+        id="experience"
+      >
         <div class="my-auto">
           <h2 class="mb-5">Experience</h2>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
-              <h3 class="mb-0">Software Engineer</h3>
-              <div class="subheading mb-3">Provab Technosoft Private Limited Bangalore</div>
-              <p>Delivers high-quality designs to client specifications. Experienced in developing and integrating systems for the travel Industry. Effectively manages projects to meet customer objectives.</p>
+              <h3 class="mb-0">Software Developer (Technology Analyst)</h3>
+              <div class="subheading mb-3">
+                Yiron Technologies Private Limited – Chandigarh, India
+              </div>
               <p>
-              	I worked on a project from end to end, integrating Travelport APIs (for flights, hotels, transfers, and insurance) into the website. I also handled all booking-related reports. Lastly, I worked on content management for the website, enabling content to be added from the admin panel and reflected on the homepage
+                Integrated third-party travel APIs, including Travelport and
+                EaseMyTrip, to support flight search, fare management, booking,
+                reservation processing, and other travel-related workflows.
+                Developed and enhanced flight booking and reservation systems
+                using PHP, CodeIgniter, Laravel, REST APIs, and React.js.
+              </p>
+              <p>
+                Implemented markup management and discount rule functionality to
+                support dynamic pricing and business-specific fare
+                configurations. Developed a Flight Amendment System to handle
+                booking modifications and post-booking workflows.
+              </p>
+              <p>
+                Designed and developed flight booking reports and CMS modules to
+                improve operational visibility and content management. Built and
+                enhanced travel-domain CRM solutions, including lead management,
+                customer tracking, and booking-related workflows using PHP,
+                CodeIgniter, and React.js.
+              </p>
+              <p>
+                Developed and integrated REST APIs to enable communication
+                between internal applications and third-party travel services.
+                Participated in application maintenance, troubleshooting,
+                feature enhancements, and production issue resolution. Leveraged
+                Cursor AI and AI-assisted development tools for code generation,
+                debugging, refactoring, and feature implementation.
+              </p>
+              <p>
+                <strong>Project:</strong>
+                <a
+                  href="https://whitesky.ytravsuite.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  whitesky.ytravsuite.com – Flight Booking Platform
+                </a>
+              </p>
+              <p>
+                <strong>Technologies:</strong>
+                PHP, CodeIgniter, Laravel, React.js, JavaScript, HTML, CSS, REST
+                APIs, Third-Party API Integration, Cursor AI
+              </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">February 2025 - June 2026</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Software Engineer</h3>
+              <div class="subheading mb-3">
+                Provab Technosoft Private Limited Bangalore
+              </div>
+              <p>
+                Delivers high-quality designs to client specifications.
+                Experienced in developing and integrating systems for the travel
+                Industry. Effectively manages projects to meet customer
+                objectives.
+              </p>
+              <p>
+                I worked on a project from end to end, integrating Travelport
+                APIs (for flights, hotels, transfers, and insurance) into the
+                website. I also handled all booking-related reports. Lastly, I
+                worked on content management for the website, enabling content
+                to be added from the admin panel and reflected on the homepage
               </p>
             </div>
             <div class="resume-date text-md-right">
@@ -147,8 +270,14 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Software Engineer</h3>
-              <div class="subheading mb-3">Zavetech Business Solutions Private Limited Bangalore</div>
-              <p>I worked on a school application where my role involved maintaining all student reports and providing APIs for the mobile application.</p>
+              <div class="subheading mb-3">
+                Zavetech Business Solutions Private Limited Bangalore
+              </div>
+              <p>
+                I worked on a school application where my role involved
+                maintaining all student reports and providing APIs for the
+                mobile application.
+              </p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">July 2021 - December 2021</span>
@@ -158,8 +287,16 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Software Engineer(Php developer)</h3>
-              <div class="subheading mb-3">Semaconnect System India Private Limited</div>
-              <p>The company manufactures electric vehicle charging stations, and my role is to maintain charging station reports, including data on when vehicles are plugged in and unplugged, how much energy is consumed, and the associated cost. Additionally, I provide mobile APIs for these reports..</p>
+              <div class="subheading mb-3">
+                Semaconnect System India Private Limited
+              </div>
+              <p>
+                The company manufactures electric vehicle charging stations, and
+                my role is to maintain charging station reports, including data
+                on when vehicles are plugged in and unplugged, how much energy
+                is consumed, and the associated cost. Additionally, I provide
+                mobile APIs for these reports..
+              </p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">March 2019 - June 2020</span>
@@ -169,26 +306,38 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Junior Software developer(Php)</h3>
-              <div class="subheading mb-3">Trawex technologies Pvt ltd Bangalore</div>
-              <p>The company mainly operates in the travel domain, such as flight and hotel booking. My role involved creating dynamic components for the homepage, allowing details to be added from the admin panel and displayed on the home page. I also worked on flight booking reports and handled flight API integration on the website.</p>
+              <div class="subheading mb-3">
+                Trawex technologies Pvt ltd Bangalore
+              </div>
+              <p>
+                The company mainly operates in the travel domain, such as flight
+                and hotel booking. My role involved creating dynamic components
+                for the homepage, allowing details to be added from the admin
+                panel and displayed on the home page. I also worked on flight
+                booking reports and handled flight API integration on the
+                website.
+              </p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">February 2017 - November 2018</span>
             </div>
           </div>
-
         </div>
-
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+      <section
+        class="resume-section p-3 p-lg-5 d-flex flex-column"
+        id="education"
+      >
         <div class="my-auto">
           <h2 class="mb-5">Education</h2>
 
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Jain college of engineering Belgaum</h3>
-              <div class="subheading mb-3">MCA (Vishwesharayya Technical University )</div>
+              <div class="subheading mb-3">
+                MCA (Vishwesharayya Technical University )
+              </div>
               <div>Master In Computer Applictions</div>
               <p>Percentage: 64 %</p>
             </div>
@@ -200,19 +349,23 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
           <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">G S S College Belgaum</h3>
-              <div class="subheading mb-3">BSC (Karnataka University Dharawad)</div>
-                <div>BSC In Computer Science</div>
+              <div class="subheading mb-3">
+                BSC (Karnataka University Dharawad)
+              </div>
+              <div>BSC In Computer Science</div>
               <p>Percentage: 60 %</p>
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">2009 To 2012</span>
             </div>
           </div>
-  <div class="resume-item d-flex flex-column flex-md-row">
+          <div class="resume-item d-flex flex-column flex-md-row">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">S S M S College Athani</h3>
-              <div class="subheading mb-3">PUC (Karnataka University Bangalore)</div>
-                <div>12th Class</div>
+              <div class="subheading mb-3">
+                PUC (Karnataka University Bangalore)
+              </div>
+              <div>12th Class</div>
               <p>Percentage: 40 %</p>
             </div>
             <div class="resume-date text-md-right">
@@ -234,67 +387,74 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
             <li class="list-inline-item">
               <i class="devicon-codeigniter-plain"></i>
             </li>
-
-			<li class="list-inline-item">
-			<i class="devicon-laravel-original"></i>
-			</li>
-			<li class="list-inline-item">
-			<i class="devicon-mysql-original"></i>
-			</li>
-
+            <li class="list-inline-item">
+              <i class="devicon-laravel-original"></i>
+            </li>
+            <li class="list-inline-item">
+              <i class="devicon-mysql-original"></i>
+            </li>
             <li class="list-inline-item">
               <i class="devicons devicons-javascript"></i>
             </li>
-         <!--    <li class="list-inline-item">
-              <i class="devicons devicons-jquery"></i>
-            </li>  -->
             <li class="list-inline-item">
               <i class="devicons devicons-bootstrap"></i>
-            </li> 
-                <li class="list-inline-item">
+            </li>
+            <li class="list-inline-item">
               <i class="devicon-html5-plain"></i>
-            </li> 
-                <li class="list-inline-item">
+            </li>
+            <li class="list-inline-item">
               <i class="devicon-angular-plain"></i>
-            </li> 
-          
-           
-           
+            </li>
+            <!-- React.js -->
+            <li class="list-inline-item">
+              <i class="devicon-react-original"></i>
+            </li>
           </ul>
 
           <div class="subheading mb-3">Workflow</div>
           <ul class="fa-ul mb-0">
             <li>
               <i class="fa-li fa fa-check"></i>
-              PHP , Core Php</li>
+              PHP , Core Php
+            </li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Code Ignitor </li>
+              Code Ignitor
+            </li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Laravel</li>
+              Laravel
+            </li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              MySql</li>
-                 <li>
+              MySql
+            </li>
+            <li>
               <i class="fa-li fa fa-check"></i>
-              API Integration, API Development</li>
-              <li>
+              API Integration, API Development
+            </li>
+            <li>
               <i class="fa-li fa fa-check"></i>
-              CMS, Content Management System</li>
+              CMS, Content Management System
+            </li>
 
-<li>
+            <li>
               <i class="fa-li fa fa-check"></i>
-              Travel Domain Flight,hotl,Transfer,Insurance</li>
-<li>
+              Travel Domain Flight,hotl,Transfer,Insurance
+            </li>
+            <li>
               <i class="fa-li fa fa-check"></i>
-              HTML, CSS, JS, AJAX</li>
-
+              HTML, CSS, JS, AJAX
+            </li>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              REACT
+            </li>
           </ul>
         </div>
       </section>
 
-    <!--   <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+      <!--   <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
         <div class="my-auto">
           <h2 class="mb-5">Interests</h2>
           <p>Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid skiier and novice ice climber. During the warmer months here in Colorado, I enjoy mountain biking, free climbing, and kayaking.</p>
@@ -304,33 +464,24 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
         <div class="my-auto">
-          <h2 class="mb-5">Address   </h2>
+          <h2 class="mb-5">Address</h2>
           <ul class="fa-ul mb-0">
+            <li>Balasab Muddebihal</li>
+            <li></li>
+            <li>Electronic City Bangalore</li>
+            <li>PIN : 560100</li>
+            <li>Mob: 9590961744</li>
+            <li></li>
+            <li>Email: mayur332@gmail.com</li>
             <li>
-             
-              Balasab Muddebihal</li>
-            <li> 
-            <li>
-               Electronic City Bangalore
-               </li>
-            <li>
-               
-               
-               PIN : 560100</li>
-            <li>
-               Mob: 9590961744
-               </li>
-            <li>
-            <li>
-               
-               Email: mayur332@gmail.com</li>
-            <li>
-               
-              Linkdin: <a href="http://www.linkedin.com/in/balasab-muddebihal-aa386a128">http://www.linkedin.com/in/balasab-muddebihal-aa386a128</a></li>
+              Linkdin:
+              <a href="http://www.linkedin.com/in/balasab-muddebihal-aa386a128"
+                >http://www.linkedin.com/in/balasab-muddebihal-aa386a128</a
+              >
+            </li>
           </ul>
         </div>
       </section>
-
     </div>
 
     <!-- Bootstrap core JavaScript -->
@@ -342,7 +493,5 @@ Full Stack Developer with extensive knowledge of PHP, JavaScript, HTML, CSS, and
 
     <!-- Custom scripts for this template -->
     <script src="js/resume.min.js"></script>
-
   </body>
-
 </html>
